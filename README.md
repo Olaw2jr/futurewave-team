@@ -21,6 +21,7 @@ jQuery("#owl-blog-posts").owlCarousel({
 });
 
 
+
 ------> owl carousel is necessary !!! <------
 
 
