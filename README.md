@@ -25,6 +25,7 @@ jQuery("#owl-blog-posts").owlCarousel({
 
 
 in your wordpress backend page insert to load member list
- ```   [team the_query="posts_per_page=10&order=DESC&post_type=team_mitarbeiter"]```
-    
-    
+```
+[team the_query="posts_per_page=10&order=DESC&post_type=team_mitarbeiter"]
+```
+ 
