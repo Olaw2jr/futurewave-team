@@ -1,6 +1,6 @@
 # futurewave-team
-Wordpress team/member display 
-(owl carousel is necessary)
+Wordpress team-member display with downloadable vcf/vcard generator ///  I hope someone finds this useful
+(owl carousel is necessary: https://github.com/OwlFonk/OwlCarousel)
 
   - Upload Team.php to wp-plugins
   - Insert functions.php code into your functions.php file
@@ -21,7 +21,7 @@ jQuery("#owl-blog-posts").owlCarousel({
 });
 ```
 
-------> owl carousel is necessary !!! <------
+------> owl carousel is necessary: https://github.com/OwlFonk/OwlCarousel !!! <------
 
 
 in your wordpress backend page insert to load member list
