@@ -6,7 +6,7 @@ Wordpress team/member display
   - Insert functions.php code into your functions.php file
   - insert style.css into your theme css file
   - insert this into your theme js file
-
+```
 jQuery(document).ready(function(){
 jQuery("#owl-blog-posts").owlCarousel({
       autoPlay: 15000, //Set AutoPlay to 3 seconds
@@ -19,13 +19,12 @@ jQuery("#owl-blog-posts").owlCarousel({
  	  itemsMobile: [631,1]
   });
 });
-
-
+```
 
 ------> owl carousel is necessary !!! <------
 
 
 in your wordpress backend page insert to load member list
-    [team the_query="posts_per_page=10&order=DESC&post_type=team_mitarbeiter"]
+ ```   [team the_query="posts_per_page=10&order=DESC&post_type=team_mitarbeiter"]```
     
     
