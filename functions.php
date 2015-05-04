@@ -1,4 +1,3 @@
-
 /* vcf file*/
 add_filter('upload_mimes', 'custom_upload_mimes');
 function custom_upload_mimes ( $existing_mimes=array() ) {
